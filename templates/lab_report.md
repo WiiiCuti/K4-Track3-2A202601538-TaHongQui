@@ -2,7 +2,7 @@
 
 **Học viên:** Tạ Hồng Quí  
 **Khóa học:** AICB-K34 · Track 3: GraphRAG  
-**Ngày thực hiện:** [Ngày/Tháng/Năm]  
+**Ngày thực hiện:** 19/08/2026  
 
 ---
 
