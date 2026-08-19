@@ -1,6 +1,7 @@
 # Báo Cáo Thực Hành & Thuyết Minh Kỹ Thuật — Lab 19: GraphRAG vs Flat RAG
 
-**Học viên:** [Họ và Tên]  
+**Học viên:** Tạ Hồng Quí  
+**Mã học viên:** 2A202601538  
 **Khóa học:** AICB-K34 · Track 3: GraphRAG  
 **Ngày thực hiện:** [Ngày/Tháng/Năm]  
 
